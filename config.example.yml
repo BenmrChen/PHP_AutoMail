@@ -1,0 +1,11 @@
+<?php 
+  $account = ''; //帳號
+  $password = ''; //密碼
+  $user = ''; //user
+  $receiver = ''; //收件人mail
+  $receiver_name = ''; //收件人名稱
+  $subject = ''; //mail標題
+  $content = ''; //mail內容
+  //多久要寄mail
+  //要罰多少錢
+?>
